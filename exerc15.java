@@ -1,3 +1,9 @@
+/* Nome do Aluno: José Lucas Augusto Ribeiro
+* RA: 323114228
+* Nome do Programa: Exercicio 15
+* Data: 21.05.2023
+*/
+
 public class exerc15 {
     public static void main(String[] args) {
         int linhas = 10;

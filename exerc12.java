@@ -1,3 +1,10 @@
+/* Nome do Aluno: José Lucas Augusto Ribeiro
+* RA: 323114228
+* Nome do Programa: Exercicio 12
+* Data: 21.05.2023
+*/
+
+
 public class exerc12 {
     public static void main(String[] args) {
         int numero = 0;
